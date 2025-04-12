@@ -1,0 +1,142 @@
+{
+  "Brentford": [
+    {
+      "name": "Mark Flekken",
+      "minutes": 90,
+      "position": "GK"
+    },
+    {
+      "name": "Mads Roerslev",
+      "minutes": 88,
+      "position": "DR"
+    },
+    {
+      "name": "Nathan Collins",
+      "minutes": 90,
+      "position": "DC"
+    },
+    {
+      "name": "Sepp van den Berg",
+      "minutes": 90,
+      "position": "DC"
+    },
+    {
+      "name": "Keane Lewis-Potter",
+      "minutes": 90,
+      "position": "DL"
+    },
+    {
+      "name": "Christian Nørgaard",
+      "minutes": 90,
+      "position": "MC"
+    },
+    {
+      "name": "Mathias Jensen",
+      "minutes": 69,
+      "position": "MC"
+    },
+    {
+      "name": "Vitaly Janelt",
+      "minutes": 80,
+      "position": "MC"
+    },
+    {
+      "name": "Bryan Mbeumo",
+      "minutes": 90,
+      "position": "FWR"
+    },
+    {
+      "name": "Yoane Wissa",
+      "minutes": 90,
+      "position": "FW"
+    },
+    {
+      "name": "Mikkel Damsgaard",
+      "minutes": 90,
+      "position": "FWL"
+    },
+    {
+      "name": "Kevin Schade",
+      "minutes": 21,
+      "position": "SUB"
+    },
+    {
+      "name": "Rico Henry",
+      "minutes": 2,
+      "position": "SUB"
+    },
+    {
+      "name": "Yehor Yarmolyuk",
+      "minutes": 10,
+      "position": "SUB"
+    }
+  ],
+  "Manchester City": [
+    {
+      "name": "Stefan Ortega Moreno",
+      "minutes": 90,
+      "position": "GK"
+    },
+    {
+      "name": "Matheus Nunes",
+      "minutes": 90,
+      "position": "DR"
+
+    },
+    {
+      "name": "Nathan Aké",
+      "minutes": 90,
+      "position": "DC"
+    },
+    {
+      "name": "Manuel Akanji",
+      "minutes": 90,
+      "position": "DC"
+    },
+    {
+      "name": "Josko Gvardiol",
+      "minutes": 90,
+      "position": "DL"
+    },
+    {
+      "name": "Mateo Kovacic",
+      "minutes": 77,
+      "position": "DMC"
+    },
+    {
+      "name": "Bernardo Silva",
+      "minutes": 90,
+      "position": "DMC"
+    },
+    {
+      "name": "Phil Foden",
+      "minutes": 88,
+      "position": "AMR"
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "minutes": 90,
+      "position": "AMC"
+    },
+    {
+      "name": "Sávio",
+      "minutes": 90,
+      "position": "AML"
+    },
+    {
+      "name": "Erling Haaland",
+      "minutes": 90,
+      "position": "FW"
+    },
+    {
+      "name": "Ilkay Gündogan",
+      "minutes": 13,
+      "position": "SUB"
+    },
+    {
+      "name": "James McAtee",
+      "minutes": 2,
+      "position": "SUB"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>xG Charts | Manchester City</title>
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="header-container">
+      <a href="index.html" class="home-link">
+        <img src="https://kr.mancity.com/dist/images/logos/crest.svg" alt="Man City Logo" class="club-logo">
+        <h1>Manchester City</h1>
+      </a>
+    </div>
+    <nav class="top-nav">
+      <ul class="nav-menu">
+        <li><a href="index.html">Match Summary</a></li>
+        <li><a href="players.html">Players</a></li>
+        <li><a href="charts.html" class="active">Charts</a></li>
+        <li><a href="teamstats.html">Team Stats</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="pitch">
+      <h2>⚽ Interactive Shot Map</h2>
+      <canvas id="shotMap" width="800" height="500"></canvas>
+    </section>
+
+    <section id="xgChart">
+      <h2>📊 Player xG Bar Chart</h2>
+      <canvas id="xgBarChart" width="800" height="400"></canvas>
+    </section>
+
+    <section id="staticHeatmap">
+      <h2>🔥 Shot Heatmap</h2>
+      <img src="assets/shot_heatmap_with_names.png" alt="Heatmap" width="100%">
+    </section>
+
+    <section id="splitXGChart">
+      <h2>⚖️ xG Split by Team</h2>
+      <img src="assets/player_xg_split_bar_chart.png" alt="xG Split" width="100%">
+    </section>
+
+    <section id="xgTimeline">
+      <h2>📈 xG Timeline</h2>
+      <img src="assets/xGTimeline.png" alt="xG Timeline" width="100%">
+    </section>
+
+    <section id="xgTimeline2">
+      <h2>🌟 xG Timeline with Goal Events</h2>
+      <img src="assets/xGTimeline2.png" alt="Goal Events" width="100%">
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; Manchester City FC xG Dashboard</p>
+    <div class="social-icons">
+      <a href="https://youtube.com/mancity" target="_blank"><i class="fab fa-youtube"></i></a>
+      <a href="https://instagram.com/mancity" target="_blank"><i class="fab fa-instagram"></i></a>
+      <a href="https://twitter.com/mancity" target="_blank"><i class="fab fa-x-twitter"></i></a>
+      <a href="https://facebook.com/mancity" target="_blank"><i class="fab fa-facebook-f"></i></a>
+      <a href="https://linkedin.com/company/manchester-city-football-club" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+      <a href="https://www.mancity.com" target="_blank"><i class="fas fa-percent"></i></a>
+    </div>
+  </footer>
+
+  <!-- Chart Script -->
+  <script src="js/main.js" defer></script>
+</body>
+</html>

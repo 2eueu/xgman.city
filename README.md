@@ -1,18 +1,18 @@
-# 📊 xGMan.City – Football Team Stats Dashboard
+# xGMan.City – Football Team Stats Dashboard
 
-> ⚽ **[Live Demo](https://2eueu.github.io/xgman.city/teamstats.html)**  
+>  **[Live Demo](https://2eueu.github.io/xgman.city/teamstats.html)**  
 > A football data dashboard visualizing team & player performance based on expected goals (xG)
 
 ---
 
-## 📝 Overview
+##  Overview
 
 This dashboard analyzes and visualizes football stats (especially xG) using interactive visualizations and a clean UI.  
 It supports club-level team stat analysis and player-level shot maps to support tactical evaluation.
 
 ---
 
-## 🖼️ Preview
+## Preview
 
 | Team Dashboard (`main.png`) | xG Timeline (`charts1.png`) |
 |-----------------------------|------------------------------|
@@ -24,16 +24,16 @@ It supports club-level team stat analysis and player-level shot maps to support 
 
 ---
 
-## 🔍 Features
+##  Features
 
-- ⚽ **Expected Goals (xG)** comparison by teams
-- 🧍‍♂️ Player-specific shot heatmaps and outcomes
-- 📊 Real-time chart visualizations using Chart.js
-- 📁 Simple, mobile-friendly layout (pure HTML/CSS/JS)
+-  **Expected Goals (xG)** comparison by teams
+-  Player-specific shot heatmaps and outcomes
+-  Real-time chart visualizations using Chart.js
+-  Simple, mobile-friendly layout (pure HTML/CSS/JS)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,26 +42,26 @@ It supports club-level team stat analysis and player-level shot maps to support 
 
 ---
 
-## 🧠 Concepts Used
+## Concepts Used
 
-- 📈 xG modeling & tactical data visualization
-- 🔀 Filtering codeshare vs. master flights (for sports usage too)
-- 💬 Dashboard-style user experience design
+-  xG modeling & tactical data visualization
+-  Filtering codeshare vs. master flights (for sports usage too)
+-  Dashboard-style user experience design
 
 ---
 
-## 🔗 Related Work
+##  Related Work
 
 - [xGMan.City Player View (WIP)](https://2eueu.github.io/xgman.city/playerview.html)
 - [Tottenham Shop Clone](https://2eueu.github.io/spurs-shop-clone/)
 
 ---
 
-## 🙋‍♀️ About the Creator
+##  About the Creator
 
-- 👩‍💻 **Name**: GaEun Lee (이가은)  
-- 🎓 **Major**: Artificial Intelligence Engineering  
-- 🧠 **Interests**: Sports analytics, xG modeling, and EPL scouting tools
+-  **Name**: GaEun Lee (이가은)  
+-  **Major**: Artificial Intelligence Engineering  
+-  **Interests**: Sports analytics, xG modeling, and EPL scouting tools
 
 ---
 

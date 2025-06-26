@@ -65,6 +65,6 @@ It supports club-level team stat analysis and player-level shot maps to support 
 
 ---
 
-## 📄 License
+##  License
 
 MIT License © 2025 GaEun Lee ([@2eueu](https://github.com/2eueu))
